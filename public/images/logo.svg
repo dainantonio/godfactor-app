@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 200 100">
+  <style>
+    .text { font-family: Arial, sans-serif; font-size: 24px; font-weight: bold; fill: #2C5530; }
+    .cross { fill: none; stroke: #2C5530; stroke-width: 4; }
+  </style>
+  <line x1="40" y1="50" x2="40" y2="80" class="cross"/>
+  <line x1="25" y1="65" x2="55" y2="65" class="cross"/>
+  <text x="70" y="60" class="text">GodFactor</text>
+</svg>
